@@ -1,13 +1,14 @@
 ## Oioi, sejam bem vindos ao meu perfil! ✨ 
 
-<!--
-**pimentabiquinhoo/pimentabiquinhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-🕯️Me chamo **Sofia**
 
--🕯️Me chamo Sofia
 -💞 Sou estudante da plataforma Alura 
--🧸Estou adquirindo experiencia de linguagem JavaScript
--🫧 Aqui é meu mundo para compartilhar os projetos que desenvolvo
 
-[]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F415100-kawaii-aesthetic-gifs&psig=AOvVaw1NMdhht6Caa2Cpi0gFqwhh&ust=1716375192369000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCMtoLKnoYDFQAAAAAdAAAAABAJ
--->
+-☁️Estou adquirindo experiencia de linguagem JavaScript
+
+-🫧 Aqui é meu mundo para compartilhar os projetos que estou desenvolvendo
+
+![](![ac9353c00f62f5da19a8056446ba9e9d](https://github.com/pimentabiquinhoo/pimentabiquinhoo/assets/170416993/455eacb3-2ebf-478b-a813-0b9999a9a166)
+)
+
