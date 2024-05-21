@@ -1,14 +1,13 @@
 ## Oioi, sejam bem vindos ao meu perfil! ✨ 
 
 
--🕯️Me chamo **Sofia**
+-🌙 Me chamo **Sofia**
 
 -💞 Sou estudante da plataforma Alura 
 
--☁️Estou adquirindo experiencia de linguagem JavaScript
+-☁️ Estou adquirindo experiencia de linguagem JavaScript
 
 -🫧 Aqui é meu mundo para compartilhar os projetos que estou desenvolvendo
 
-![](![ac9353c00f62f5da19a8056446ba9e9d](https://github.com/pimentabiquinhoo/pimentabiquinhoo/assets/170416993/455eacb3-2ebf-478b-a813-0b9999a9a166)
-)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Faesthetic-background&psig=AOvVaw1Be2P_7afkvObTazFzfxYM&ust=1716376942416000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDkt9zQnoYDFQAAAAAdAAAAABAD)
 
