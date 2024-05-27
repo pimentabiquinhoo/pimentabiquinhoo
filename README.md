@@ -9,5 +9,5 @@
 
 -🫧 Aqui é meu mundo para compartilhar os projetos que estou desenvolvendo
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Faesthetic-background&psig=AOvVaw1Be2P_7afkvObTazFzfxYM&ust=1716376942416000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDkt9zQnoYDFQAAAAAdAAAAABAD)
+![](https://66.media.tumblr.com/50718b80406867d8a6e7aa063af47bd1/63065902e4a8cc57-d9/s500x750/b5e967738f5658302dca4df615f840342b961964.gif)
 
